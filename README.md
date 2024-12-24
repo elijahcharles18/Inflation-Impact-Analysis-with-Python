@@ -48,6 +48,9 @@ The data used in this analysis is sourced from Macrotrends.net, statista.com and
 ## Findings
 The notebook outputs:
 #### Trends of Exchange Rate and Inflation Rates:
+![Trends of Exchange Rate and Inflation Rates](https://github.com/elijahcharles18/Inflation-Impact-Analysis-with-Python/blob/main/newplot.png)
+
+*Figure 1: Trends of Exchange Rate and Inflation Rates*
 The Naira-to-Dollar exchange rate (NGR/USD) exhibits a consistent upward trend, peaking post-2020. Nigeria’s inflation rate fluctuates but shows a rising trajectory, particularly after 2020. In contrast, the US inflation rate remains low with minor variations.
 
 #### Correlation Analysis:
@@ -77,7 +80,16 @@ Nigeria’s inflation is strongly influenced by exchange rate fluctuations.
 Moderate correlation between US and Nigeria’s inflation highlights global interconnectedness.
 Minimal impact of US inflation on the Naira/USD exchange rate.
 
-#### Comparative Analysis and PPP:
+#### Comparative Analysis: Exchange Rate vs. Inflation Rates (Nigeria & US):
+![Exchange Rate vs. Inflation Rates (Nigeria & US)](https://github.com/elijahcharles18/Inflation-Impact-Analysis-with-Python/blob/main/newplot(1).png)
+
+*Figure 2: Comparative Analysis: Exchange Rate vs. Inflation Rates (Nigeria & US)*
+The Nigerian inflation rate maintains a steady upward trend, while the US inflation rate remains relatively stable and low.
+The exchange rate correlates more with Nigeria’s inflation rate, highlighting the influence of local economic factors on currency valuation.
+
+#### Analyzing Inflation based on the Purchasing Power Parity (PPP)
+![Analyzing Inflation based on the Purchasing Power Parity (PPP)](https://github.com/elijahcharles18/Inflation-Impact-Analysis-with-Python/blob/main/newplot(2).png)
+*Figure 3: Analyzing Inflation based on the Purchasing Power Parity (PPP)*
 Nigeria’s inflation rises steadily, while US inflation remains stable. The exchange rate aligns more closely with Nigeria’s inflation, underscoring local economic drivers. Purchasing Power Parity (PPP) suggests that currencies adjust over time to equalize purchasing power. However, the actual exchange rate diverges significantly from the expected PPP rate, showing a sharper rise post-2015.
 
 ## Conclusion
