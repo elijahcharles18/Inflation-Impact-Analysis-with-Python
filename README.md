@@ -51,6 +51,14 @@ The notebook outputs:
 The Naira-to-Dollar exchange rate (NGR/USD) exhibits a consistent upward trend, peaking post-2020. Nigeria’s inflation rate fluctuates but shows a rising trajectory, particularly after 2020. In contrast, the US inflation rate remains low with minor variations.
 
 #### Correlation Analysis:
+
+
+| Indicator                     | Exchange Rate (NGR/USD) | Inflation Rate (Nigeria) | Inflation Rate (United States) |
+|-------------------------------|--------------------------|---------------------------|---------------------------------|
+| **Exchange Rate (NGR/USD)**   | 1.000000                | 0.820133                 | 0.230760                       |
+| **Inflation Rate (Nigeria)**  | 0.820133                | 1.000000                 | 0.320746                       |
+| **Inflation Rate (United States)** | 0.230760            | 0.320746                 | 1.000000                       |
+
 A correlation matrix reveals relationships among the exchange rate, Nigeria’s inflation, and US inflation. Key findings include:
 
 Exchange Rate (NGR/USD):
