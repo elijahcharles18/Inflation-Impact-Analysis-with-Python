@@ -81,7 +81,7 @@ Moderate correlation between US and Nigeria’s inflation highlights global inte
 Minimal impact of US inflation on the Naira/USD exchange rate.
 
 #### Comparative Analysis: Exchange Rate vs. Inflation Rates (Nigeria & US):
-![Exchange Rate vs. Inflation Rates (Nigeria & US)](https://github.com/elijahcharles18/Inflation-Impact-Analysis-with-Python/blob/main/newplot(1).png)
+![Comparative Analysis: Exchange Rate vs. Inflation Rates (Nigeria & US)](https://github.com/elijahcharles18/Inflation-Impact-Analysis-with-Python/blob/main/newplot%20(1).png).
 
 *Figure 2: Comparative Analysis: Exchange Rate vs. Inflation Rates (Nigeria & US)*
 The Nigerian inflation rate maintains a steady upward trend, while the US inflation rate remains relatively stable and low.
@@ -89,6 +89,7 @@ The exchange rate correlates more with Nigeria’s inflation rate, highlighting 
 
 #### Analyzing Inflation based on the Purchasing Power Parity (PPP)
 ![Analyzing Inflation based on the Purchasing Power Parity (PPP)](https://github.com/elijahcharles18/Inflation-Impact-Analysis-with-Python/blob/main/newplot(2).png)
+
 *Figure 3: Analyzing Inflation based on the Purchasing Power Parity (PPP)*
 Nigeria’s inflation rises steadily, while US inflation remains stable. The exchange rate aligns more closely with Nigeria’s inflation, underscoring local economic drivers. Purchasing Power Parity (PPP) suggests that currencies adjust over time to equalize purchasing power. However, the actual exchange rate diverges significantly from the expected PPP rate, showing a sharper rise post-2015.
 
